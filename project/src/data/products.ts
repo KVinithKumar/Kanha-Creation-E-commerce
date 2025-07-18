@@ -10,7 +10,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'living-room',
     subcategory: 'sofas',
-    description: 'Comfortable 3-seater sofa with premium fabric upholstery',
+    description: 'Comfortable 3-seater sofa with premium fabric upholstery. Perfect for living room, family room, or lounge area. Features high-quality cushioning and durable construction.',
     inStock: true,
     rating: 4.5,
     reviews: 128
@@ -24,7 +24,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'home-office',
     subcategory: 'office-chairs',
-    description: 'Ergonomic office chair with lumbar support and adjustable height',
+    description: 'Ergonomic office chair with lumbar support and adjustable height. Ideal for home office, corporate office, or study room. Features breathable mesh back and comfortable padding.',
     inStock: true,
     rating: 4.7,
     reviews: 89
@@ -38,7 +38,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'dining-room',
     subcategory: 'dining-sets',
-    description: '4-seater dining table set with comfortable chairs',
+    description: '4-seater dining table set with comfortable chairs. Perfect for family dining, kitchen area, or dining room. Includes matching chairs with cushioned seats.',
     inStock: true,
     rating: 4.3,
     reviews: 67
@@ -52,7 +52,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'living-room',
     subcategory: 'recliners',
-    description: 'Luxury leather recliner with massage function',
+    description: 'Luxury leather recliner with massage function. Premium comfort chair for relaxation, TV viewing, or reading. Features multiple reclining positions and built-in massage.',
     inStock: true,
     rating: 4.8,
     reviews: 45
@@ -66,7 +66,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'kids-furniture',
     subcategory: 'study-tables',
-    description: 'Compact study table with storage compartments',
+    description: 'Compact study table with storage compartments. Perfect for kids room, student study area, or home office. Features multiple drawers and organized storage space.',
     inStock: true,
     rating: 4.4,
     reviews: 156
@@ -80,7 +80,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1743231/pexels-photo-1743231.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'bed-room',
     subcategory: 'beds',
-    description: 'Elegant queen size bed with storage',
+    description: 'Elegant queen size bed with storage. Spacious bedroom furniture with built-in storage compartments. Perfect for master bedroom or guest room.',
     inStock: true,
     rating: 4.6,
     reviews: 234
@@ -94,7 +94,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'outdoor',
     subcategory: 'garden-furniture',
-    description: 'Weather-resistant garden chair set',
+    description: 'Weather-resistant garden chair set. Durable outdoor furniture for patio, garden, balcony, or terrace. Made with weather-proof materials.',
     inStock: true,
     rating: 4.2,
     reviews: 78
@@ -108,7 +108,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg?auto=compress&cs=tinysrgb&w=400',
     category: 'living-room',
     subcategory: 'tables',
-    description: 'Modern glass top coffee table',
+    description: 'Modern glass top coffee table. Stylish center table for living room, lounge, or sitting area. Features tempered glass top and sturdy base.',
     inStock: true,
     rating: 4.3,
     reviews: 92

@@ -11,6 +11,7 @@ import ProductPage from './pages/ProductPage';
 import Cart from './pages/Cart';
 import Wishlist from './pages/Wishlist';
 import Account from './pages/Account';
+import SearchResults from './pages/SearchResults';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
                 <Route path="/cart" element={<Cart />} />
                 <Route path="/wishlist" element={<Wishlist />} />
                 <Route path="/account" element={<Account />} />
+                <Route path="/search" element={<SearchResults />} />
               </Routes>
             </main>
             <Footer />
